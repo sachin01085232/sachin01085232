@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi 👋, I'm Sachin Kargeti
 
-<!--
-**sachin01085232/sachin01085232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aspiring Data Analyst
 
-Here are some ideas to get you started:
+I enjoy turning raw data into meaningful business insights using SQL, Python, Excel, and Power BI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+
+- SQL
+- Python
+- Power BI
+- Excel
+- Pandas
+- NumPy
+- Power Query
+- DAX
+- Data Modeling
+
+## 📊 Featured Projects
+
+- 📈 Retail Sales Analysis
+- 👨‍💼 Employee Performance Analysis
+- 🏪 Vendor Sales Analysis
+- 📋 Excel Power Query Data Cleaning
+
+## 🌱 Currently Learning
+
+- Advanced SQL
+- Time Intelligence in Power BI
+- Advanced DAX
+- Python for Data Analysis
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/sachin-kargeti-172435350/
+- 📧 Email: sachinkargeti20@gmail.com
+
+⭐ Thank you for visiting my profile!
